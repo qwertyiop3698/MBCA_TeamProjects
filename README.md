@@ -5,6 +5,8 @@
 - **개발 기간**: 2026.03 ~ 2026.04 (4주 / 팀 프로젝트)
 - **참여 인원**: 4명
 - **담당 역할**: 팀원 / 냉장고 도메인 데이터 파이프라인, OCR 정제 화면, ML 예측 모델, 레시피 추천 알고리즘, OpenAI API 추천 기능 구현
+- **GitHub Repository**: [MBCA TeamProjects](https://github.com/qwertviop3698/MBCA_TeamProjects)
+
 ---
 
 ## 담당 역할
@@ -29,13 +31,13 @@
 </p>
 
 <p align="center">
-  <img src="./Images/03_manual_cooking_time_derivation.png" width="430" alt="조리과정 분석 기반 조리시간 도출" />
-  <img src="./Images/insight_expiry_weight_vector_basis.png" width="430" alt="소비기한 기반 추천 가중치 설계" />
+  <img src="./Images/cooking-time-derivation.png" width="430" alt="조리과정 분석 기반 조리시간 도출" />
+  <img src="./Images/expiry-weight-vector.png" width="430" alt="소비기한 기반 추천 가중치 설계" />
 </p>
 
 <p align="center">
-  <img src="./Images/insight_difficulty_feasibility.png" width="430" alt="난이도 분포 기반 실행 가능성 검증" />
-  <img src="./Images/insight_cooking_time_feasibility.png" width="430" alt="조리시간 분포 기반 실행 가능성 검증" />
+  <img src="./Images/difficulty-feasibility-analysis.png" width="430" alt="난이도 분포 기반 실행 가능성 검증" />
+  <img src="./Images/cooking-time-feasibility-analysis.png" width="430" alt="조리시간 분포 기반 실행 가능성 검증" />
 </p>
 
 ---
