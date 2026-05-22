@@ -21,14 +21,7 @@
 
 추가로 OpenAI API를 연동해 보유 재료와 계절성을 고려한 식비 절약형 제철요리 추천 기능을 구현했으며, JSON Schema 기반 응답 형식을 적용해 생성형 AI 결과를 안정적으로 파싱하고 서비스 데이터로 활용할 수 있도록 구성했습니다.
 
-### 구현 화면 및 분석 자료
-
-<p align="center">
-  <img src="./Images/receipt-ocr-camera.png" width="220" alt="영수증 OCR 촬영 화면" />
-  <img src="./Images/ocr-ingredient-confirm.png" width="220" alt="OCR 재료 확인 화면" />
-  <img src="./Images/recipe-recommendation.png" width="220" alt="냉장고 재료 기반 레시피 추천 화면" />
-  <img src="./Images/seasonal-food-recommendation.png" width="220" alt="OpenAI API 기반 제철요리 추천 화면" />
-</p>
+### 분석 자료
 
 <p align="center">
   <img src="./Images/cooking-time-derivation.png" width="430" alt="조리과정 분석 기반 조리시간 도출" />
