@@ -89,7 +89,7 @@ Final Score = (Cosine Similarity * 0.8) + (Urgency Score / 10 * 0.2)
 - 주재료 3.0점, 부재료 1.5점, 양념 0.5점 기준으로 매칭 점수를 계산하여, 실제 조리에 중요한 재료가 더 많이 반영되도록 구성했습니다.
 
 <p align="center">
-  <img src="./Images/fridge-inventory-list.png" width="220" alt="냉장고 재료 목록 화면" />
+  <img src="./Images/fridge-inventory-list.png" width="240" alt="냉장고 재료 목록 화면" />
   <img src="./Images/recipe-recommendation.png" width="240" alt="재료 소진 레시피 추천 화면" />
 </p>
 
